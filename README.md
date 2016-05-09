@@ -88,6 +88,6 @@ The following packages must be installed to use our models:
  
 #### Contacting us 
  
-If you have any questions, please contact: mva2112@columbia and rsm2166@columbia.edu
+If you have any questions, please contact: mva2112@columbia.edu and rsm2166@columbia.edu
 
 
